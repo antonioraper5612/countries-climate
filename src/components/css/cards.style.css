@@ -1,0 +1,12 @@
+
+.cards-main{
+    margin:20px;
+    -webkit-box-shadow: -12px -5px 15px -3px rgba(82,77,82,1);
+    -moz-box-shadow: -12px -5px 15px -3px rgba(82,77,82,1);
+    box-shadow: -12px -5px 15px -3px rgba(82,77,82,1);
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+

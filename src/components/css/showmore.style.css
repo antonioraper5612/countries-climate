@@ -1,0 +1,17 @@
+.main-content-showmore{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content:center;
+    align-items: center;
+    margin:23px auto;
+  width:80%;
+  overflow: hidden;
+}
+
+.main-content-showmore img{
+ width:100%;
+}
+
+
+
+

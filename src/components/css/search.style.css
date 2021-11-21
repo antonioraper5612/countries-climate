@@ -1,0 +1,38 @@
+.search{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+    margin: 70px auto;
+}
+
+.search_input {
+    padding:10px 30px;
+    border-radius: 20px;
+    outline: none;
+    font-size: 25px;
+    width:70%;
+}
+
+.search input::-webkit-input-placeholder {
+    text-align: center;
+}
+
+.search button{
+    margin-top: 20px;
+    width: 100px;
+    padding: 10px 20px ;
+    border-radius: 10px;
+    background-color: #4062ac;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+
+}
+
+.main-card-search{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top:15px;
+}
+
